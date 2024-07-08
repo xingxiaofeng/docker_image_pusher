@@ -1,1 +1,1 @@
-woosungchoi/fpm-alpine
+francoisprigent/php7.4-fpm
