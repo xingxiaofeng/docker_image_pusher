@@ -1,1 +1,1 @@
-francoisprigent/php7.4-fpm
+migs/mysql-5.7
