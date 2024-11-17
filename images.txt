@@ -1,1 +1,1 @@
-mysql:5.7.6
+ghcr.io/snowdreamtech/frps:nightly-bookworm
